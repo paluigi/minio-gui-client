@@ -1,2 +1,9 @@
-# minio-gui-client
- GUI client for Minio Object Storage
+# Flet app
+
+A simple Flet app.
+
+To run the app:
+
+```
+flet run [app_directory]
+```
